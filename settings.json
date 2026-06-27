@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cloudd9.minefort.com",
+    "ip": "cloud9.minekeep.gg",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
